@@ -17,8 +17,9 @@ A simple file encryption and decryption tool written in Rust using AES encryptio
 1. Create a `test.txt` file with some content.
 2. Run the program:
 in terminal
+
 cargo run
-3. It will create:
+4. It will create:
 
 test.enc → Encrypted file
 
